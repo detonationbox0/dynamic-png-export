@@ -9,7 +9,9 @@
 #container {
     /* resize:both; */
     /* overflow:auto; */
+    width:100%;
     background-color:beige;
+    /* text-align:center; */
 }
 
 #export {
