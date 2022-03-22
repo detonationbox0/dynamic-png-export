@@ -1,0 +1,19 @@
+#konva, #container {
+    display:inline-block;
+}
+
+#konva {
+    background-color:azure;
+}
+
+#container {
+    /* resize:both; */
+    /* overflow:auto; */
+    background-color:beige;
+}
+
+#export {
+    margin-top:20px;
+    /* height:30px; */
+    /* padding:8px; */
+}
